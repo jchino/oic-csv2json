@@ -251,8 +251,8 @@ Oracle Integration Cloud の ***"統合"*** は、アプリケーションやサ
 
 1.  次に CSV ファイルに含まれるデータの設定を行います。
 
-    [サンプル CSV ファイル](samples/input-1.csv) をローカルにダウンロードします。
-    **「Oracleアダプタ・エンドポイント構成ウィザード」** の **「新規デリミタ付きデータ・ファイルの選択」** の **「ファイルを選択」** ボタンをクリックします。
+    [サンプル CSV ファイル](https://raw.githubusercontent.com/oracle-japan/oic-csv2json/master/samples/input-1.csv) をローカルにダウンロードします。
+    **「Oracleアダプタ・エンドポイント構成ウィザード」** の **「新規デリミタ付きデータ・ファイルの選択」** の **「ファイルを選択」** ボタンをクックします。
     ファイルを開くダイアログ・ボックスが表示されるので、ダウンロードしたサンプル CSV ファイル (`input-1.csv`) を選択して **「開く」** ボタンをクリックします。
 
     CSV ファイルの各列のデータの設定がテーブル形式で表示されます。
@@ -329,7 +329,7 @@ Oracle Integration Cloud の ***"統合"*** は、アプリケーションやサ
 
 1.  **「Oracleアダプタ・エンドポイント構成ウィザード」** の **「ファイル・コンテンツ - 定義」** では、書込む JSON ファイルのサンプルをアップロードします。
 
-    [サンプル JSON ファイル](samples/output-1.json) をローカルにダウンロードします。
+    [サンプル JSON ファイル](https://raw.githubusercontent.com/oracle-japan/oic-csv2json/master/samples/output-1.json) をローカルにダウンロードします。
     次に、**「ファイルを選択」** ボタンをクリックして、ダウンロードしたサンプル JSON ファイルを選択します。
 
     ![OIC サービス・コンソール](images/ss049.png)
